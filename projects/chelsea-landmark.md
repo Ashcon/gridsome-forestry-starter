@@ -17,13 +17,13 @@ This is **_markdown_ and**
 
 > what is this, right?
 
-So yeah, \``his is a test``
+So yeah, `this is a test.`
 
 and of course code block
 
     # start with some variables
     def num = 10
 
-Oh, and, this is a banana... 
+Oh, and, this is a banana...
 
 ![](/uploads/mike-dorner-173502-unsplash.jpg)
